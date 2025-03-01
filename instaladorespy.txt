@@ -1,0 +1,31 @@
+# desde CMD
+python --version
+pip --version
+
+#En Mysql
+pip install mysql-connector-python
+python -m pip install --upgrade pip
+python -m pip install mysql-connector-python
+# Ejecutar para conectar con MySQL
+pip install mysql-connector-python
+
+
+#Ejecutar para conectar con SQLServer
+pip install pyodbc
+#Visualizacion de datos en tabla
+pip install tabulate
+
+#Verificar la instalacion
+pip list
+
+
+# ir a la carpeta ejemplo o donde lo hayan descargado en mi caso
+cd C:\Users\uide\Desktop\ESTRUCTURA MODELADO Y ALMACENAMIENTO DE DATOS\ejemplo_proyecto
+
+
+# Cargar la BD ya sea para MySQL o SQL Server
+
+demoMysql
+demoSQLSERVER
+
+# Ejecutar el archivo .py Empresas
